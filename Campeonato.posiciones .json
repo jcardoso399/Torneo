@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "655a336c515fdc5ca7e9f784"
+  },
+  "Posición": 1,
+  "Equipo": "T1",
+  "Partidos Jugados": 2,
+  "Victorias": 2,
+  "Empates": 0,
+  "Derrotas": 0
+},
+{
+  "_id": {
+    "$oid": "655a44af515fdc5ca7e9f785"
+  },
+  "Posición": 2,
+  "Equipo": "BLG",
+  "Partidos Jugados": 2,
+  "Victorias": 1,
+  "Empates": 0,
+  "Derrotas": 1
+},
+{
+  "_id": {
+    "$oid": "655a44ca515fdc5ca7e9f786"
+  },
+  "Posición": 3,
+  "Equipo": "JDG",
+  "Partidos Jugados": 3,
+  "Victorias": 2,
+  "Empates": 0,
+  "Derrotas": 1
+},
+{
+  "_id": {
+    "$oid": "655a44d9515fdc5ca7e9f787"
+  },
+  "Posición": 4,
+  "Equipo": "JDG",
+  "Partidos Jugados": 3,
+  "Victorias": 0,
+  "Empates": 0,
+  "Derrotas": 3
+}]

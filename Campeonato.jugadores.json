@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "6558eff37a3d712f8195b1b5"
+  },
+  "Nombres": "Choi Wo-je",
+  "Usuario": "zeus",
+  "Equipo": "T1",
+  "Nacionalidad": "coreano"
+},
+{
+  "_id": {
+    "$oid": "6558fbf27a3d712f8195b1b6"
+  },
+  "Nombres": "Moon Hyeon-joon",
+  "Usuario": "Oner",
+  "Equipo": "T1",
+  "Nacionalidad": "coreano"
+},
+{
+  "_id": {
+    "$oid": "6558fc5a7a3d712f8195b1b8"
+  },
+  "Nombres": "Lee Sang-hyeok",
+  "Usuario": "faker",
+  "Equipo": "T1",
+  "Nacionalidad": "coreano"
+},
+{
+  "_id": {
+    "$oid": "6558fcb77a3d712f8195b1b9"
+  },
+  "Nombres": "Lee Min-hyeong ",
+  "Usuario": "Gumayusi",
+  "Equipo": "T1",
+  "Nacionalidad": "coreano"
+},
+{
+  "_id": {
+    "$oid": "6558fcd17a3d712f8195b1ba"
+  },
+  "Nombres": "Ryu Min-seok ",
+  "Usuario": "Gumayusi",
+  "Equipo": "Keria",
+  "Nacionalidad": "coreano"
+},
+{
+  "_id": {
+    "$oid": "6558fe8d7a3d712f8195b1bb"
+  },
+  "Nombres": "Bai Jiahao",
+  "Usuario": "369",
+  "Equipo": "JGD",
+  "Nacionalidad": "china"
+},
+{
+  "_id": {
+    "$oid": "6558ff207a3d712f8195b1bc"
+  },
+  "Nombres": "Seo Jin-hyeok",
+  "Usuario": "Kanavi",
+  "Equipo": "JGD",
+  "Nacionalidad": "corea"
+},
+{
+  "_id": {
+    "$oid": "6558ff487a3d712f8195b1bd"
+  },
+  "Nombres": "Zhuo Ding",
+  "Usuario": "knight",
+  "Equipo": "JGD",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "6558ffb77a3d712f8195b1be"
+  },
+  "Nombres": "Park Jae-hyuk",
+  "Usuario": "Ruler",
+  "Equipo": "JGD",
+  "Nacionalidad": "corea"
+},
+{
+  "_id": {
+    "$oid": "6558ffda7a3d712f8195b1bf"
+  },
+  "Nombres": "Lou Yunfeng",
+  "Usuario": "MISSING",
+  "Equipo": "JGD",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655900db7a3d712f8195b1c0"
+  },
+  "Nombres": "Chen Ze-Bin",
+  "Usuario": "Bin",
+  "Equipo": "BLG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "6559022f7a3d712f8195b1c1"
+  },
+  "Nombres": "Peng Li-Xun",
+  "Usuario": "XUN",
+  "Equipo": "BLG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655903487a3d712f8195b1c2"
+  },
+  "Nombres": "Zeng Qi ",
+  "Usuario": "Yagao",
+  "Equipo": "BLG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655909617a3d712f8195b1c3"
+  },
+  "Nombres": "Zhao Jia-Hao ",
+  "Usuario": "Elk",
+  "Equipo": "BLG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655909867a3d712f8195b1c4"
+  },
+  "Nombres": "Luo Wen-Jun ",
+  "Usuario": "ON",
+  "Equipo": "BLG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655911237a3d712f8195b1c7"
+  },
+  "Nombres": "Kang Seung-lok  ",
+  "Usuario": "TheShy",
+  "Equipo": "WBG",
+  "Nacionalidad": "corea"
+},
+{
+  "_id": {
+    "$oid": "6559116c7a3d712f8195b1c8"
+  },
+  "Nombres": "Wei Bo-Han   ",
+  "Usuario": "Weiwei",
+  "Equipo": "WBG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655912097a3d712f8195b1c9"
+  },
+  "Nombres": "Wang Guang-Yu  ",
+  "Usuario": "Light",
+  "Equipo": "WBG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655912477a3d712f8195b1ca"
+  },
+  "Nombres": "Liu Qing-Song ",
+  "Usuario": "Crisp",
+  "Equipo": "WBG",
+  "Nacionalidad": "chino"
+}]

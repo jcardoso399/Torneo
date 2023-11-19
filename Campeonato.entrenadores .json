@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "655a27ed515fdc5ca7e9f774"
+  },
+  "Nombres": "Bengi",
+  "Edad": 28,
+  "Equipo": "T1",
+  "Nacionalidad": "coreano"
+},
+{
+  "_id": {
+    "$oid": "655a2937515fdc5ca7e9f775"
+  },
+  "Nombres": "Homme",
+  "Edad": 34,
+  "Equipo": "JDG",
+  "Nacionalidad": "coreano"
+},
+{
+  "_id": {
+    "$oid": "655a29bf515fdc5ca7e9f778"
+  },
+  "Nombres": "Wong Pak Kan",
+  "Edad": 27,
+  "Equipo": "BLG",
+  "Nacionalidad": "chino"
+},
+{
+  "_id": {
+    "$oid": "655a2a5e515fdc5ca7e9f77b"
+  },
+  "Nombres": "Daeny",
+  "Edad": 35,
+  "Equipo": "WBG",
+  "Nacionalidad": "chino"
+}]

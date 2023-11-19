@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "655a482b515fdc5ca7e9f793"
+  },
+  "Equipos": "T1 vs JDG",
+  "Victoria": "T1",
+  "Resultado": "3-1"
+},
+{
+  "_id": {
+    "$oid": "655a4901515fdc5ca7e9f794"
+  },
+  "Equipos": "BLG vs WBG",
+  "Victoria": "BLG",
+  "Resultado": "3-2"
+},
+{
+  "_id": {
+    "$oid": "655a4910515fdc5ca7e9f795"
+  },
+  "Equipos": "T1 vs BLG",
+  "Victoria": "T1",
+  "Resultado": "3-0"
+},
+{
+  "_id": {
+    "$oid": "655a4925515fdc5ca7e9f796"
+  },
+  "Equipos": "BLG vs JDG",
+  "Victoria": "JGD",
+  "Resultado": "3-2"
+}]
